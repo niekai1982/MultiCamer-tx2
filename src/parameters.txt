@@ -1,0 +1,12 @@
+txt_key=0
+save_key=0
+depth_RL=0
+depth_RH=3000
+depth_value=180
+min_distance=3
+max_age=3
+min_hits=3
+prob_theta=0.0
+proportion=0.0
+age_thresh=10
+dist_thresh=60
